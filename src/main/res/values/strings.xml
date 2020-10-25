@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MSDS</string>
+    <string name="edit_username">Username</string>
+    <string name="edit_password">Password</string>
+    <string name="button_login">Log In</string>
+</resources>
